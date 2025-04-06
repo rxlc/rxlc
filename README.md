@@ -1,1 +1,1 @@
-![Badge](https://hitscounter.dev/api/hit?url=rxlc.me&label=&icon=github&color=%23198754)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frxlc&label=Profile+Views&icon=github&color=%23198754)
